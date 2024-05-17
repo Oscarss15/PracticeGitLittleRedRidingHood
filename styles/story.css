@@ -29,3 +29,12 @@
 }
 
 
+#textstory1{
+    
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+    display: none;
+        
+}
