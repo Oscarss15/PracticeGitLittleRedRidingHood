@@ -38,3 +38,13 @@
     display: none;
         
 }
+
+#textstory2{
+
+    display: none;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+        
+}
