@@ -29,7 +29,7 @@
 }
 
 
-#textstory1{
+#textstory1,#textstory2,#textstory3{
     
     font-size: 30px;
     text-align: justify;
@@ -39,12 +39,3 @@
         
 }
 
-#textstory2{
-
-    display: none;
-    font-size: 30px;
-    text-align: justify;
-    margin-top: 150px;
-    height: 400px;
-        
-}
