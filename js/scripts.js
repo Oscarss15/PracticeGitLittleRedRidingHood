@@ -18,6 +18,12 @@ function continueStory() {
       document.getElementById("redhood2").style.display = "block";
   }
 
+  if(cont===3){
+    document.getElementById("textstory2").style.display = "none";
+    document.getElementById("textstory3").style.display = "block";
+    document.getElementById("redhood2").style.display = "none";
+    document.getElementById("redhood3").style.display = "block";
+}
   }
 
   function resetStory() {
@@ -26,10 +32,12 @@ function continueStory() {
     document.getElementById("textmain").style.display = "block";
     document.getElementById("textstory1").style.display = "none";
     document.getElementById("textstory2").style.display = "none";
+    document.getElementById("textstory3").style.display = "none";
    
     document.getElementById("redhoodmain").style.display = "block";
     document.getElementById("redhood1").style.display = "none";
     document.getElementById("redhood2").style.display = "none";
+    document.getElementById("redhood3").style.display = "none";
     
   }
 
