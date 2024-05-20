@@ -16,7 +16,47 @@
     
 }
 
-#redhood1,#redhood2,#redhood3,#redhood4,#redhood5{
+#redhood1{
+
+    height: 600px;
+    width: 100%;
+    display: none;
+
+}
+
+#redhood2{
+
+    height: 600px;
+    width: 100%;
+    display: none;
+
+}
+
+#redhood3{
+
+    height: 600px;
+    width: 100%;
+    display: none;
+
+}
+
+#redhood4{
+
+    height: 600px;
+    width: 100%;
+    display: none;
+
+}
+
+#redhood5{
+
+    height: 600px;
+    width: 100%;
+    display: none;
+
+}
+
+#redhood6{
 
     height: 600px;
     width: 100%;

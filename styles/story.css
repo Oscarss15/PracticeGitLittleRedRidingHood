@@ -29,7 +29,7 @@
 }
 
 
-#textstory1,#textstory2,#textstory3,#textstory4,#textstory5{
+#textstory1{
     
     font-size: 30px;
     text-align: justify;
@@ -39,3 +39,52 @@
         
 }
 
+#textstory2{
+
+    display: none;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+        
+}
+
+#textstory3{
+
+    display: none;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+        
+}
+
+#textstory4{
+
+    display: none;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+        
+}
+
+#textstory5{
+
+    display: none;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+        
+}
+
+#textstory6{
+
+    display: none;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 150px;
+    height: 400px;
+        
+}
